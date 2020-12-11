@@ -1,5 +1,5 @@
 # ptpNetworking
-* Implementation of a three nodes point –to –point network with duplex links between them, used to simulate the communication between the nodes and to find the number of packets droped by varying the Bandwidht.
+* Implementation of a three nodes point –to –point network with duplex links between them,which is used to simulate the communication between the nodes and to find the number of packets droped by varying the Bandwidht.
 
 ![alt tag](https://github.com/Sarvesh-SP/ptpNetworking/blob/master/ptpn_nam.png)
 
